@@ -17,3 +17,5 @@ From a scientific perspective, ELE is groundbreaking because it provides a frame
 #
 
 [PNN](https://github.com/sourceduty/Predictive_Neural_Network)
+<br>
+[Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
